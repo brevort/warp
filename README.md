@@ -7,9 +7,7 @@ This pack is usable out of the box, but can be customized to your preferences. B
 
 **How to craft**
 4 Emerald Blocks, 4 Lapis Blocks, 1 Popped Chorus Fruit
-![image](https://github.com/user-attachments/assets/065efe14-9631-4220-a99f-c9794d1b689c)
-
-
+![warp-crystal](https://github.com/user-attachments/assets/c82f9d2e-6688-4a4d-8bfd-f03a04af53b1)
 
 **Enabling the warp command**
 Run /function warp:allow_warp_command_true
