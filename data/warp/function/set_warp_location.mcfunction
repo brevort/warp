@@ -1,0 +1,1 @@
+tp @e[type=marker,tag=warp_init] @s

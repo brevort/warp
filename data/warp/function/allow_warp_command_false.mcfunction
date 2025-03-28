@@ -1,0 +1,1 @@
+scoreboard players set allowWarpCommand allowWarpCommand 0
